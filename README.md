@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbehl26" alt="varunbehl26" /> </p>
 
-- 🔭 I’m currently working on **Tic Tac Toe**
+- 🔭 I’m currently working on **becoming better**
 
-- 🌱 I’m currently learning **ios app development**
+- 🌱 I’m currently learning **Swift UI**
 
 - 👯 I’m looking to collaborate on **ios and android projects**
 
