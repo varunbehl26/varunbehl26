@@ -1,28 +1,42 @@
+<h1 align="center">Hi 👋, I'm Varun Behl</h1>
+<h3 align="center">Senior Android Developer | Kotlin Multiplatform (KMP) | On-Device AI</h3>
+<p align="center"><b>📍 Toronto, Ontario, Canada</b></p>
 
-<h1 align="center">Hi 👋, I'm varun behl</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varunbehl26&color=blue" alt="varunbehl26" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbehl26" alt="varunbehl26" /> </p>
+- 🔭 I’m currently building **scalable KMP architectures and integrating on-device LLMs.**
 
-- 🔭 I’m currently working on **becoming better**
+- 🌱 I’m currently focused on **making daily 1% improvements in mobile engineering and self-hosted AI.**
 
-- 🌱 I’m currently learning **Swift UI**
+- 👯 I’m looking to collaborate on **Kotlin Multiplatform and AI agent workflows.**
 
-- 👯 I’m looking to collaborate on **ios and android projects**
+- 👨‍💻 All of my work and architecture breakdowns are available at [varunbehl26.github.io](https://varunbehl26.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/varunbehl26?tab=repositories](https://github.com/varunbehl26?tab=repositories)
+- 💬 Ask me about **Android, Jetpack Compose, Home Assistant, and local AI.**
 
-- 💬 Ask me about **android**
+- 📫 How to reach me: **behlvarun26@gmail.com**
 
-- 📫 How to reach me **behlvarun26@gmail.com**
+<br/>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbehl26&layout=compact&hide=html" alt="varunbehl26" /></p>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+</p>
+
+<br/>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunbehl26&layout=compact&hide=html&theme=radical" alt="Top Languages" /></p>
+
+<br/>
 
 <p align="center">
-<a href="https://twitter.com/varunbehl26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varunbehl26" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/behlvarun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="behlvarun" height="30" width="30" /></a>
+<a href="https://twitter.com/varunbehl26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="varunbehl26" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/1804241" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1804241" height="30" width="30" /></a>
-<a href="https://fb.com/varunbehl26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="varunbehl26" height="30" width="30" /></a>
 <a href="https://medium.com/@varunbehl26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@varunbehl26" height="30" width="30" /></a>
 </p>
